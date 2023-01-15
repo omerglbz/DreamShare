@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "180401977488",
+    "project_id": "proje-5d645",
+    "storage_bucket": "proje-5d645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180401977488:android:2ce3bb509b2095dac5c015",
+        "android_client_info": {
+          "package_name": "com.Proje.fotografpaylasmakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180401977488-d8n8mtj5aa4dvie3iddpshfljuohh3tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdXMD6UafyGoR9h5kozcF4yZdD62kCKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180401977488-d8n8mtj5aa4dvie3iddpshfljuohh3tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180401977488:android:910f82cbe4d1097dc5c015",
+        "android_client_info": {
+          "package_name": "com.example.fotopu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180401977488-d8n8mtj5aa4dvie3iddpshfljuohh3tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdXMD6UafyGoR9h5kozcF4yZdD62kCKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180401977488-d8n8mtj5aa4dvie3iddpshfljuohh3tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180401977488:android:d30d2902d78e0b4ec5c015",
+        "android_client_info": {
+          "package_name": "com.fpuP.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180401977488-d8n8mtj5aa4dvie3iddpshfljuohh3tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdXMD6UafyGoR9h5kozcF4yZdD62kCKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180401977488-d8n8mtj5aa4dvie3iddpshfljuohh3tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
